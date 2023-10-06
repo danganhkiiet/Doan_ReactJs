@@ -1,0 +1,46 @@
+.carousels{
+  text-align: center;
+  width: 100%;
+}
+.button-more{
+  width: 15% ;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.button-all-of-type{
+    padding-left: 83%;
+}
+.type-product{
+  color: #495057;
+    font-weight: bold;
+    font-size: xx-large;
+    padding-left: 6%;
+}
+.btn-buy{
+  color: aliceblue;
+  text-decoration: none;
+}
+.btn-them-san-pham{
+  margin-bottom: 40px;
+}
+.btn-thanh-toan{
+  margin-left: 65.5%;
+}
+.body-detail{
+  background-color: #e7eef1;
+}
+.name-product{
+  font-size: 40px;
+  font-weight: bold;
+}
+.so-luong{
+  font-size: 20px;
+  font-weight: bold;
+}
+.vi-tri-dang-nhap
+{
+ 
+  margin-top: 70px;
+  width: 50%;
+}
